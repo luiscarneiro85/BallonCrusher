@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: f133abf8d186937499efa0f556a1a872
+timeCreated: 1462746540
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CounterBar_0
+    21300002: CounterBar_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CounterBar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 661
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -44.5}
+        - {x: 323.5, y: -44.5}
+        - {x: 329.5, y: -43.5}
+        - {x: 330.5, y: -37.5}
+        - {x: 330.5, y: 16.5}
+        - {x: 329.5, y: 18.5}
+        - {x: 323.5, y: 27.5}
+        - {x: -110.5, y: 27.5}
+        - {x: -113.5, y: 42.5}
+        - {x: -132.5, y: 74.5}
+        - {x: -146.5, y: 85.5}
+        - {x: -161.5, y: 96.5}
+        - {x: -177.5, y: 105.5}
+        - {x: -191.5, y: 109.5}
+        - {x: -248.5, y: 109.5}
+        - {x: -263.5, y: 105.5}
+        - {x: -286.5, y: 94.5}
+        - {x: -320.5, y: 60.5}
+        - {x: -330.5, y: 34.5}
+        - {x: -330.5, y: -35.5}
+        - {x: -319.5, y: -60.5}
+        - {x: -294.5, y: -87.5}
+        - {x: -279.5, y: -98.5}
+        - {x: -254.5, y: -109.5}
+        - {x: -186.5, y: -109.5}
+        - {x: -160.5, y: -99.5}
+        - {x: -145.5, y: -88.5}
+        - {x: -122.5, y: -59.5}
+    - name: CounterBar_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 648
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -55}
+        - {x: -96, y: -54}
+        - {x: 311, y: -54}
+        - {x: 316, y: -51}
+        - {x: 324, y: -35}
+        - {x: 324, y: 13}
+        - {x: 323, y: 18}
+        - {x: 313, y: 36}
+        - {x: 308, y: 39}
+        - {x: -96, y: 39}
+        - {x: -96, y: 41}
+        - {x: -102, y: 48}
+        - {x: -119, y: 71}
+        - {x: -141, y: 93}
+        - {x: -161, y: 106}
+        - {x: -169, y: 110}
+        - {x: -270, y: 110}
+        - {x: -279, y: 105}
+        - {x: -302, y: 87}
+        - {x: -317, y: 66}
+        - {x: -324, y: 54}
+        - {x: -324, y: -43}
+        - {x: -323, y: -47}
+        - {x: -310, y: -68}
+        - {x: -300, y: -80}
+        - {x: -282, y: -97}
+        - {x: -265, y: -106}
+        - {x: -255, y: -110}
+        - {x: -172, y: -110}
+        - {x: -162, y: -107}
+        - {x: -140, y: -92}
+        - {x: -107, y: -65}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

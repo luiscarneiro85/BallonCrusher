@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 77a7e5a30b49f1e489f2697612b8330c
+timeCreated: 1462742414
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RewardIcons_0
+    21300002: RewardIcons_1
+    21300004: RewardIcons_2
+    21300006: RewardIcons_3
+    21300008: RewardIcons_4
+    21300010: RewardIcons_5
+    21300012: RewardIcons_6
+    21300014: RewardIcons_7
+    21300016: RewardIcons_8
+    21300018: RewardIcons_9
+    21300020: RewardIcons_10
+    21300022: RewardIcons_11
+    21300024: RewardIcons_12
+    21300026: RewardIcons_13
+    21300028: RewardIcons_14
+    21300030: RewardIcons_15
+    21300032: RewardIcons_16
+    21300034: RewardIcons_17
+    21300036: RewardIcons_18
+    21300038: RewardIcons_19
+    21300040: RewardIcons_20
+    21300042: RewardIcons_21
+    21300044: RewardIcons_22
+    21300046: RewardIcons_23
+    21300048: RewardIcons_24
+    21300050: RewardIcons_25
+    21300052: RewardIcons_26
+    21300054: RewardIcons_27
+    21300056: RewardIcons_28
+    21300058: RewardIcons_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RewardIcons_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_5
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 887
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 79}
+        - {x: -32, y: 79}
+        - {x: -83, y: 55}
+        - {x: -83, y: -34}
+        - {x: -70, y: -79}
+        - {x: 72, y: -79}
+        - {x: 74, y: -78}
+        - {x: 83, y: -19}
+        - {x: 83, y: 49}
+    - name: RewardIcons_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_11
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 675
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 89}
+        - {x: -35.5, y: 89}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -85}
+        - {x: -66.5, y: -89}
+        - {x: 65.5, y: -89}
+        - {x: 71.5, y: -81}
+        - {x: 71.5, y: 54}
+        - {x: 48.5, y: 87}
+    - name: RewardIcons_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_15
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_17
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 446
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -81, y: 28}
+        - {x: -81, y: -21}
+        - {x: -64, y: -81}
+        - {x: -26, y: -99}
+        - {x: 34, y: -99}
+        - {x: 81, y: -23}
+        - {x: 81, y: 17}
+        - {x: 21, y: 99}
+    - name: RewardIcons_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_23
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 224
+        width: 132
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103}
+        - {x: -61, y: 59}
+        - {x: -66, y: 7}
+        - {x: -66, y: -77}
+        - {x: -49, y: -103}
+        - {x: 20, y: -103}
+        - {x: 66, y: -90}
+        - {x: 66, y: 85}
+        - {x: 50, y: 103}
+    - name: RewardIcons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    - name: RewardIcons_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    - name: RewardIcons_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    - name: RewardIcons_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    - name: RewardIcons_28
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    - name: RewardIcons_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 86.5}
+        - {x: -79.5, y: 57.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -86.5, y: -39.5}
+        - {x: -82.5, y: -60.5}
+        - {x: -39.5, y: -86.5}
+        - {x: 75.5, y: -86.5}
+        - {x: 86.5, y: -84.5}
+        - {x: 86.5, y: 86.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

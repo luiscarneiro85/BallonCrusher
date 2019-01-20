@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 89d79cb93b097ac44a4bb23810b083b9
+timeCreated: 1462469170
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bars_Lines_0
+    21300002: Bars_Lines_1
+    21300004: Bars_Lines_2
+    21300006: Bars_Lines_3
+    21300008: Bars_Lines_4
+    21300010: Bars_Lines_5
+    21300012: Bars_Lines_6
+    21300014: Bars_Lines_7
+    21300016: Bars_Lines_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bars_Lines_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 642
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 567
+        width: 1349
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 674.5, y: -20}
+        - {x: 674.5, y: 19}
+        - {x: 592.5, y: 35}
+        - {x: -608.5, y: 35}
+        - {x: -664.5, y: 19}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -11}
+        - {x: -665.5, y: -23}
+        - {x: -609.5, y: -35}
+        - {x: 595.5, y: -35}
+    - name: Bars_Lines_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 512
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 442
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 372
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 302
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 232
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 152
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    - name: Bars_Lines_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 72
+        width: 1349
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 673.5, y: -18}
+        - {x: 674.5, y: -14}
+        - {x: 674.5, y: 15}
+        - {x: 663.5, y: 19}
+        - {x: 640.5, y: 20}
+        - {x: -665.5, y: 20}
+        - {x: -674.5, y: 12}
+        - {x: -674.5, y: -10}
+        - {x: -664.5, y: -18}
+        - {x: -629.5, y: -20}
+        - {x: 589.5, y: -20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

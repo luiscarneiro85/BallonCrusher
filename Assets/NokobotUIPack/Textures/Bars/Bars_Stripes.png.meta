@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: bad983d0be602134dac7d3af96d0c778
+timeCreated: 1462652945
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bars_Stripes_0
+    21300002: Bars_Stripes_1
+    21300004: Bars_Stripes_2
+    21300006: Bars_Stripes_3
+    21300008: Bars_Stripes_4
+    21300010: Bars_Stripes_5
+    21300012: Bars_Stripes_6
+    21300014: Bars_Stripes_7
+    21300016: Bars_Stripes_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bars_Stripes_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 647
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 587
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 447
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 377
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 307
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 237
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bars_Stripes_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 77
+        width: 1349
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
