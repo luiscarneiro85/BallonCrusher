@@ -26,7 +26,7 @@ public class Balloon : MonoBehaviour {
 	void Update () {
         if (hp == 3)
         {
-            GetComponent<SpriteRenderer>().color = new Color32(0, 0, 0, 255);
+            GetComponent<SpriteRenderer>().color = new Color32(0, 184, 255, 255);
         }
         else if (hp == 2) 
         {
@@ -34,7 +34,7 @@ public class Balloon : MonoBehaviour {
         }
         else if(hp == 1)
         {
-            GetComponent<SpriteRenderer>().color = new Color32(255, 255, 255, 255);
+            GetComponent<SpriteRenderer>().color = new Color32(255, 0, 237, 255);
         }
 
         if (gm.GetComponent<GameManager>().gameState.Equals("play"))
