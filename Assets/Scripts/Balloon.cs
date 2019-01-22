@@ -80,7 +80,8 @@ public class Balloon : MonoBehaviour {
             hp = 0;
             if (active)
             {
-                Instantiate(gm.GetComponent<GameManager>().brick, transform.position, transform.rotation);
+                //Instantiate(gm.GetComponent<GameManager>().brick, transform.position, transform.rotation);
+                Instantiate(gm.GetComponent<GameManager>().brick, new Vector3(transform.position.x,transform.position.y + .5f ,transform.position.z),transform.rotation);
                 active = false;
             }
 
