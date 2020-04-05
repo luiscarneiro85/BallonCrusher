@@ -1,6 +1,8 @@
 # BallonCrusher
 
-STATUS: Em desenvolvimento
+STATUS: Beta publicado na googlePlay
+
+https://play.google.com/store/apps/details?id=com.OvelhaNegraGames.BalloonCrusher
 
 EQUIPE: Luis Carneiro (Programação e Design)
         Victor Lopes (Arte e Animação)
